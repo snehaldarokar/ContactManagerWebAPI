@@ -1,0 +1,8 @@
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\bin\Debug\ContactDataAccess.dll.config
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\bin\Debug\ContactDataAccess.dll
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\bin\Debug\ContactDataAccess.pdb
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\bin\Debug\EntityFramework.dll
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\bin\Debug\EntityFramework.xml
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\obj\Debug\ContactDataAccess.dll
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\obj\Debug\ContactDataAccess.pdb
+E:\SnehalDocs\ContactManagerWebAPI\ContactDataAccess\obj\Debug\ContactDataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\bin\WebApplication1.dll
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\bin\WebApplication1.pdb
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\bin\AjaxControlToolkit.dll
+E:\SnehalDocs\ContactManagerWebAPI\WebApplication1\obj\Debug\ContactManagerClient.csprojResolveAssemblyReference.cache
